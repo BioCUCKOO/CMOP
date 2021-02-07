@@ -1,4 +1,3 @@
-# ICC-Code
 The source codes of RDS, pAKin and pMaT in ICC
 
 # RDS
@@ -7,3 +6,7 @@ The source codes of RDS, pAKin and pMaT in ICC
 
 # pMaT
 
+
+# Contact
+Dr. Yu Xue: xueyu@hust.edu.cn<br>
+Shaofeng Lin: linshaofeng@hust.edu.cn
