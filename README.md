@@ -4,9 +4,11 @@ The three novel algorithms were developed for multi-omic integration and analysi
 
 # The description of each source code
 ### RDS.R
+The code for the original and improved molecular subtyping with corresponding clinical outcome, such as the overall survival.
 <br>
 
 ### pAKin.pl
+
 
 <br>
 
@@ -19,8 +21,8 @@ This folder contains example data and files for testin. It should be noted that 
 
 # Computation Requirements
 ### OS Requirements
-Above codes have been tested on the following systems:
-Windows: Windows 7, Windos 10
+Above codes have been tested on the following systems: <br>
+Windows: Windows 7, Windos 10<br>
 Linux: CentOS linux 7.8.2003
 
 ### Software Requirements
@@ -28,7 +30,9 @@ R (version 4.0.3 or later) tool with packages (ConsensusClusterPlus, survival an
 
 ### Hardware Requirements
 All codes and softwares could run on a "normal" desktop computer, no non-standard hardware is needed.<br>
+<br>
 
 # Contact
 Dr. Yu Xue: xueyu@hust.edu.cn<br>
 Shaofeng Lin: linshaofeng@hust.edu.cn
+
