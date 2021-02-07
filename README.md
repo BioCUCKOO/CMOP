@@ -8,12 +8,11 @@ The code for the original and improved molecular subtyping with corresponding cl
 <br>
 
 ### pAKin.pl
-
-
+The program infers actionable kinases from the integration of transcriptomic, proteomic and phosphoproteomic features.
 <br>
 
 ### pMaT.pl
-
+Predicts potentially master TFs based on the transcriptomic data.
 <br>
 
 ### Example_data
@@ -35,4 +34,3 @@ All codes and softwares could run on a "normal" desktop computer, no non-standar
 # Contact
 Dr. Yu Xue: xueyu@hust.edu.cn<br>
 Shaofeng Lin: linshaofeng@hust.edu.cn
-
