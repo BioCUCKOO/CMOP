@@ -8,12 +8,12 @@ The code for the original and improved molecular subtyping with corresponding cl
 <br>
 
 ### pAKin.pl
-The program infers actionable kinases from the integration of transcriptomic, proteomic and phosphoproteomic features. The usage of the code is shown as below: <br>
+The program infers actionable kinases from the integration of transcriptomic, proteomic and phosphoproteomic features. The usage of the code is shown as below: <br><br>
 perl pAKin.pl conf.ini
 <br>
 
 ### pMaT.pl
-Predicts potentially master TFs based on the transcriptomic data. The usage of the code is shown as below: <br>
+Predicts potentially master TFs based on the transcriptomic data. The usage of the code is shown as below: <br><br>
 perl pMaT.pl conf.ini
 <br>
 
