@@ -14,6 +14,7 @@ my $sample="";
 my $relation="";
 my $matrix="";
 my $cutoff="";
+my $Output="";
 while(<INI>){
 	chomp;
 	my @a=split(/\t/,$_);
@@ -27,6 +28,8 @@ while(<INI>){
 		$matrix=$a[1];
 	}elsif($a[0] eq "Cutoff"){
 		$cutoff=$a[1];
+	}elsif($a[0] eq "Output folder"){
+		$Output=$a[1];
 	}
 }
 
@@ -62,4 +65,7 @@ if(-e $relation){
 	last;
 	print "Error: please set the path to file of TF-target relations.\n";
 }
+
+###
+
 
