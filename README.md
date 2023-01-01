@@ -1,10 +1,10 @@
-# RDS, pAKin and pMaT
-The three novel algorithms were developed for multi-omic integration and analysis of ICC, including random dropout-based subtyping (RDS) for an improved molecular subtyping, prioritization of actionable kinases (pAKin) for prediction of potentially functional ICC-associated kinases, and prioritization of master TFs (pMaT) for prediction of potentially master TFs in ICC.
+# ALS and pAKin
+The two algorithms were developed for multi-omic integration and analysis of ICC, including an artificial intelligence (AI) framework, autoencoder + LASSO for subtyping (ALS) for an integrated molecular subtyping and prioritization of actionable kinases (pAKin) for prediction of potentially functional ICC-associated kinases.
 <br>
 
 # The description of each source code
-### RDS.R
-The code for the original and improved molecular subtyping with corresponding clinical outcome, such as the overall survival. The usage of the code is shown in code file.
+### ALS.py
+The code for the improved molecular subtyping with corresponding clinical outcome, such as the overall survival. 
 <br>
 
 ### pAKin.pl
