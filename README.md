@@ -34,5 +34,6 @@ All codes and softwares could run on a "normal" desktop computer, no non-standar
 
 # Contact
 Wanshan Ning: ningwanshan@hust.edu.cn
+<br>
 Shaofeng Lin: linshaofeng@hust.edu.cn
 
