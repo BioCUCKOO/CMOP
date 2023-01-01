@@ -4,7 +4,7 @@ The two algorithms were developed for multi-omic integration and analysis of ICC
 
 # The description of each source code
 ### ALS.py
-The code of ALS framework for the integrated molecular subtyping. 
+The code of ALS framework to encode multi-omic data into an informative feature vector for the molecular subtyping. 
 <br>
 
 ### Sur.r
