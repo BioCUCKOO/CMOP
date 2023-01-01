@@ -4,7 +4,7 @@ The two algorithms were developed for multi-omic integration and analysis of ICC
 
 # The description of each source code
 ### ALS.py
-The code for the integrated molecular subtyping. 
+The code of ALS framework for the integrated molecular subtyping. 
 <br>
 
 ### pAKin.pl
@@ -29,6 +29,6 @@ All codes and softwares could run on a "normal" desktop computer, no non-standar
 <br>
 
 # Contact
-Dr. Yu Xue: xueyu@hust.edu.cn<br>
+Wanshan Ning: ningwanshan@hust.edu.cn
 Shaofeng Lin: linshaofeng@hust.edu.cn
 
