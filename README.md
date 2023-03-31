@@ -10,7 +10,7 @@ Windows: Windows 7, Windos 10<br>
 Linux: CentOS linux 7.8.2003
 
 ### Software Requirements
-Python (version 3.6 or later) tool with packages (Keras, tensorflow and scikit-learn), R (version 4.0.3 or later) tool with packages (survival and survminer), Perl (v5.26.3 or later) program with modules (Statistics::Distributions).
+R (version 4.0.3 or later) tool with packages (survival and survminer), Perl (v5.26.3 or later) program with modules (Statistics::Distributions).
 
 ### Hardware Requirements
 All codes and softwares could run on a "normal" desktop computer, no non-standard hardware is needed.<br>
